@@ -26,7 +26,7 @@ From there, it's possible to perform get and post invocations.
 
 ## TODO
 
-- IPv6
+- I'll build a board for this.
 
 ## Notes
 
