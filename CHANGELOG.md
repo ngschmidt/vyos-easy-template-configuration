@@ -13,5 +13,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - vyOS Base configuration
 - DHCP on first interface
+- SLAAC on first interface
 - Management vrf
 - Enable SSH
