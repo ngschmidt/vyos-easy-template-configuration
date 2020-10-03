@@ -1,0 +1,1 @@
+# vyos-easy-template-configuration
